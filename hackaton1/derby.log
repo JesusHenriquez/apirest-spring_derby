@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Oct 16 15:19:18 COT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-7e88-5e61-000010132540 
-on database directory memory:C:\Users\C804359\git\apirest-spring_derby\hackaton1\testdb with class loader java.net.URLClassLoader@5651a738 
+Tue Oct 16 15:45:21 COT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-7ea0-3a2b-0000106a66e8 
+on database directory memory:C:\Users\C804359\git\apirest-spring_derby\hackaton1\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/C804359/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_171-b11
