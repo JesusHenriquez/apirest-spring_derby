@@ -37,7 +37,6 @@ public class TransaccionesController {
 		return transacciones.size() + " registros agregados.";
 	}
 	
-	//Put
 	@PutMapping("/transacciones/{id}")
 	public String actualizar(@RequestBody Transacciones transaccion, @PathVariable("id") int id) {
 		Optional<Transacciones> t = repository.findById(id);
